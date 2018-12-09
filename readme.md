@@ -3,7 +3,7 @@ prerequisites
  - NPM (node package manager)
 
  Steps to run application
- - unzip the zipped file
+ - Clone the repository
  - Open terminal/command-prompt and go to root of folder(tweetsaver)
  - Run "npm install"
  - Run "npm start"
